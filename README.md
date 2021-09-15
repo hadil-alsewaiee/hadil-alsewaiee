@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning and Data Science
 - 💞️ I’m looking to collaborate on more projects in artificial intelligence
 - 📫 How to reach me by email: hadil.alsewaiee@gmail.com
-- I don't have social media accounts, only LinkedIn and Goodreads (goodreads.com/hadil_al-sawaiee)
+- I don't have social media accounts, only LinkedIn and Goodreads (https://www.goodreads.com/hadil_al-sawaiee
 )
 
 <!---
